@@ -52,6 +52,7 @@ Menu:
 * D-Pad         - navigation
 * B             - go back
 * A             - accept
+
 In-game:
 * D-Pad         - movement
 * A             - jump
